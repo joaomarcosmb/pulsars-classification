@@ -1,0 +1,16 @@
+[project]
+name = "pulsars"
+version = "0.1.0"
+description = "Model to identify neutron pulsars from astrophysical data."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "plotly>=6.3.1",
+    "ruff>=0.14.1",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
+]
