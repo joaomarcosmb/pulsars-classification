@@ -26,7 +26,7 @@ Raw data lives in `data/raw/pulsar.csv`; the processed version exported by the p
 ```text
 .
 ├── data/
-│   ├── raw/                # Original HTRU2 dataset (CSV)
+│   ├── raw/                # Original dataset (CSV)
 │   └── processed/          # PCA-transformed dataset saved by the notebooks
 ├── notebooks/              # Jupyter notebooks for EDA, preprocessing, and modeling
 ├── main.py                 # Placeholder entry point
